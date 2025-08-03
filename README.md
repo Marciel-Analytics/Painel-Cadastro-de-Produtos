@@ -72,8 +72,7 @@ O sistema é totalmente gráfico, com campos de entrada, botões e mensagens de 
 ## 👨‍💻 Autor
 
 **Marciel Carlos Medeiros de Oliveira**  
-[LinkedIn](https://www.linkedin.com/in/marciel-carlos-medeiros-de-oliveira-aa093029a)  
-Estudante de Análise de Dados com foco em projetos aplicados!
+[LinkedIn](https://www.linkedin.com/in/marciel-analytics/)  
 
 ---
 
